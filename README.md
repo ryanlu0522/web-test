@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+This is a sample landing page for pitching a project idea called **FriendlyAlarm** to the targeted audience. It is built by:
 
-You can use the [editor on GitHub](https://github.com/ryanlu0522/web-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- HTTP/CSS taught in the classes;
+- [Bootstrap 4 (alpha 6)](https://v4-alpha.getbootstrap.com/) for the responsive grid layout and components;
+- [Font Awesome](http://fontawesome.io/) for the icons;
+- [Balsamiq Mockups](https://balsamiq.com/products/mockups/) for mocking up the UI of FriendlyAlarm;
+- [Google Form](https://www.google.com/forms/about/) for collecting user feedback.
+- [Google Analytics](https://www.google.com/analytics/) for page visit tracking.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Since the page is static (i.e., without any server-side code), you can host it on [GitHub Pages](https://pages.github.com/) for **free** and leverage the GitHub CDN to deliver the page to anywhere around the world **fast**.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ryanlu0522/web-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Go build your own landing page and get **real** feedback early on. Good luck!
